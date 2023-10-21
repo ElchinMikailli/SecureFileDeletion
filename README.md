@@ -43,6 +43,7 @@ If you have suggestions, bug reports, or want to contribute to this project, ple
 
 ## License
 
-This project is licensed under the MIT License - see the (LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
