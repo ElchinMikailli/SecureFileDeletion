@@ -10,7 +10,7 @@ To install and use this program, follow these steps:
   
 
 2. Clone this repository to your local machine using Git:
-git clone https://github.com/ElchinMikailli/securefiledeletion.git
+git clone https://github.com/ElchinMikailli/SecureFileDeletion.git
 
 
 3. Change your working directory to the cloned repository:
