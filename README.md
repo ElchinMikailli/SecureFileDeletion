@@ -10,19 +10,19 @@ To install and use this program, follow these steps:
   
 
 2. Clone this repository to your local machine using Git:
-git clone https://github.com/ElchinMikailli/SecureFileDeletion.git
+```git clone https://github.com/ElchinMikailli/SecureFileDeletion.git```
 
 
 3. Change your working directory to the cloned repository:
-cd SecureFileDeletion
+```cd SecureFileDeletion```
 
 
 4.Build the Go program:
-go build SecureFileDeletion.go
+```go build SecureFileDeletion.go```
 
 
 5. Run the program:
-./SecureFileDeletion
+```./SecureFileDeletion```
 
 
 ## Usage
