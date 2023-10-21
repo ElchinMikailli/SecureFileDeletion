@@ -17,7 +17,7 @@ git clone https://github.com/ElchinMikailli/SecureFileDeletion.git
 cd SecureFileDeletion
 
 
-4.Build the Go program:
+ 4.Build the Go program:
 go build SecureFileDeletion.go
 
 
